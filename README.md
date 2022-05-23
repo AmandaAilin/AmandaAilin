@@ -23,7 +23,7 @@
 ##
   <div>
     <a href="https://www.linkedin.com/in/amanda-ailin/" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
-    <a href="mailto:amandaailindev@gmail.com" target_"black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_"black"></a>
+    <a href = "mailto:amandaailindev@gmail.com" target_"black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_"black"></a>
      <a href="https://www.instagram.com/amanda_ailiin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   
