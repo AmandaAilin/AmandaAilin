@@ -1,11 +1,21 @@
-### Olá! Eu sou Amanda Ailin 👋
-
-- 📚 I’m currently learning JavaScript
-- 📧 How to reach me: Amandaailindev@gmail.com
-- 😄 Pronouns: she
-- 💡 Fun fact: ...
+<h1 align="left">Sobre mim:</h1>
 
 
+<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/100203503/170312570-a192ea58-5712-438a-b9f1-a5312fc3bdf2.png">
+
+Olá! Sou Amanda Ailin, desenvolvedora de 23 anos.
+Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro, por ende falo espanhol e português brasileiro.
+
+- 📚 Atualmente estou aprendendo Reactjs
+- 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
+- 💡 Curiosidade: 
+>Sou apaixonada por livros, Cafeterias e Notion.   
+> Então, tenho uma biblioteca gigante no Notion de todos os livros que já li. E como amo cafeterias, fiz uma pesquisa de encontrar a cafeteria “perfeita” em (Buenos      Aires, Argentina).
+
+</br>
+</br>
+
+<h1 align="left">Estatísticas do Github::</h1>
 <div align="center">
   <a href="https://github.com/AmandaAilin">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AmandaAilin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
