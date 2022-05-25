@@ -9,7 +9,7 @@ Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro,
 - 📚 Atualmente estou aprendendo Reactjs
 - 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
 - 💡 Curiosidade: 
->Sou apaixonada por livros, Cafeterias e Notion.   
+>Sou apaixonada por livros, cafeterias e Notion.   
 > Então, tenho uma biblioteca gigante no Notion de todos os livros que já li. E como amo cafeterias, fiz uma pesquisa de encontrar a cafeteria “perfeita” em (Buenos      Aires, Argentina).
 
 </br>
@@ -26,8 +26,10 @@ Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro,
 </br>
 </br>
   
+  
+<div style="display: inline_block">
+  
   <h3 align="left">Habilidades principais:</h3>
-<div style="display: inline_block"><br>
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,9 +39,12 @@ Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro,
   <img align="center" alt="Amanda-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Visual Studio Code logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Amanda-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
 </div>
 
+
 ##
+
   <div>
     <a href="https://www.linkedin.com/in/amanda-ailin/" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
     <a href = "mailto:amandaailindev@gmail.com" target_"black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_"black"></a>
