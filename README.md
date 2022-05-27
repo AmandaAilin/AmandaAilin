@@ -8,9 +8,8 @@ Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro,
 
 - 📚 Atualmente estou aprendendo Reactjs
 - 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
-- 💡 Curiosidade: 
->Sou apaixonada por livros, cafeterias e Notion.   
-> Então, tenho uma biblioteca gigante no Notion de todos os livros que já li. E como amo cafeterias, fiz uma pesquisa de encontrar a cafeteria “perfeita” em (Buenos      Aires, Argentina).
+- 💡 Curiosidade: Sou apaixonada por livros, cafeterias e Notion.   
+
 
 </br>
 </br>
