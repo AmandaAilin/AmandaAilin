@@ -1,7 +1,8 @@
 <h1 align="left">Sobre mim:</h1>
 
-<img align="right" width="230px" style="margin-top: 20px" src="https://user-images.githubusercontent.com/100203503/170312570-a192ea58-5712-438a-b9f1-a5312fc3bdf2.png">
+<img align="right" width="200px" src="https://user-images.githubusercontent.com/100203503/170312570-a192ea58-5712-438a-b9f1-a5312fc3bdf2.png">
 
+</br>
 Olá! Sou Amanda Ailin, desenvolvedora de 23 anos.
 Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro, por ende falo espanhol e português brasileiro.
 
