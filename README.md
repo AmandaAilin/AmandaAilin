@@ -17,9 +17,8 @@ Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro,
 
 <h2 align="left">Estatísticas do Github::</h2>
 <div align="center">
-  <a href="https://github.com/AmandaAilin">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AmandaAilin&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAilin&layout=compact&langs_count=7&theme=omni"/>
+  <a href="https://github.com/AmandaAilin"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=AmandaAilin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
+  <a href="https://github.com/AmandaAilin"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAilin&layout=compact&langs_count=7&theme=dracula&hide_border=true"></a>&nbsp;
 </div>
   
 </br>
