@@ -51,7 +51,7 @@ Naci em Buenos Aires, Argentina. Mas atualmente estou morando no Rio de Janeiro,
     <a href="https://www.linkedin.com/in/amanda-ailin/" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
     <a href = "mailto:amandaailindev@gmail.com" target_"black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_"black"></a>
      <a href="https://www.instagram.com/amanda_ailiin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/xrVtsSYd"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"></a>
+  <a href="https://discord.gg/P2FHsjnT"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"></a>
   </div>
   
   ![Snake animation](https://github.com/AmandaAilin/AmandaAilin/blob/output/github-contribution-grid-snake.svg)
