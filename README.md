@@ -7,7 +7,7 @@ Olá! Sou Amanda Ailin, desenvolvedora de 24 anos.
 Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, por ende falo espanhol e português brasileiro.
 </br>
 
-- 📚 Atualmente estou aprendendo Java e SQL
+- 📚 Atualmente estou estudando Java e SQL
 - 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
 - 💡 Curiosidade: Sou apaixonada por livros, cafeterias e Notion.   
 
