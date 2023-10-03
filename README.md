@@ -55,4 +55,4 @@ Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, 
   <a href="https://discord.gg/P2FHsjnT"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"></a>
   </div>
   
-  ![Snake animation](https://github.com/AmandaAilin/AmandaAilin/blob/output/github-contribution-grid-snake.svg)
+  <!---![Snake animation](https://github.com/AmandaAilin/AmandaAilin/blob/output/github-contribution-grid-snake.svg) -->
