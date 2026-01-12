@@ -5,6 +5,7 @@
 </br>
 Olá! Sou Amanda, apaixonada por tecnologia, automação e tudo que envolve inteligência artificial aplicada ao dia a dia. Gosto de resolver problemas, aprender coisas novas e transformar processos em experiências mais simples e eficientes.
 </br>
+</br>
 
 - 📚 Graduação: Engenharia de Software (conclusão em nov/2026).
 - 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
