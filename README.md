@@ -3,7 +3,7 @@
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/100203503/170312570-a192ea58-5712-438a-b9f1-a5312fc3bdf2.png">
 
 </br>
-Olá! Sou Amanda, apaixonada por tecnologia, automação e tudo que envolve inteligência artificial aplicada ao dia a dia. Gosto de resolver problemas, aprender coisas novas e transformar processos em experiências mais simples e eficientes.
+Olá! Sou Amanda, apaixonada por tecnologia, automações e tudo que envolve inteligência artificial aplicada ao dia a dia. Gosto de resolver problemas, aprender coisas novas e transformar processos em experiências mais simples e eficientes.
 </br>
 </br>
 
