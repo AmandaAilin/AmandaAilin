@@ -18,9 +18,18 @@ Olá! Sou Amanda, apaixonada por tecnologia, automações e tudo que envolve int
 
 <h2 align="left">Estatísticas do Github::</h2>
 <div align="center">
-  <a href="https://github.com/AmandaAilin"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=AmandaAilin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
-  <a href="https://github.com/AmandaAilin"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAilin&layout=compact&langs_count=7&theme=dracula&hide_border=true"></a>&nbsp;
+
+  <a href="https://github.com/AmandaAilin">
+    <img height="145" src="https://github-readme-stats.vercel.app/api?username=AmandaAilin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/AmandaAilin">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAilin&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  </a>
+
 </div>
+
+
   
 </br>
 </br>
