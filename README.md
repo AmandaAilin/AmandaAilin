@@ -3,13 +3,12 @@
 <img align="right" width="200px" src="https://user-images.githubusercontent.com/100203503/170312570-a192ea58-5712-438a-b9f1-a5312fc3bdf2.png">
 
 </br>
-Olá! Sou Amanda Ailin, desenvolvedora de 25 anos.
-Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, por ende falo espanhol e português brasileiro.
+Olá! Sou Amanda, apaixonada por tecnologia, automação e tudo que envolve inteligência artificial aplicada ao dia a dia. Gosto de resolver problemas, aprender coisas novas e transformar processos em experiências mais simples e eficientes.
 </br>
 
-- 📚 Atualmente estou estudando Java e SQL
+- 📚 Graduação: Engenharia de Software (conclusão em nov/2026).
 - 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
-- 💡 Curiosidade: Sou apaixonada por livros, cafeterias e Notion.   
+- 💡 Curiosidade: Sou apaixonada por IA, livros, cafeterias, neurociência e Notion.   
 
 </br>
 </br>
