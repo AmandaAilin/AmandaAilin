@@ -13,8 +13,6 @@ Olá! Sou Amanda, apaixonada por tecnologia, automações e tudo que envolve int
 
 </br>
 </br>
-</br>
-</br>
 
 <!--
  <h2 align="left">Estatísticas do Github::</h2>
@@ -31,8 +29,7 @@ Olá! Sou Amanda, apaixonada por tecnologia, automações e tudo que envolve int
 </div>
 -->
 
-  
-</br>
+
 </br>
   
   
